@@ -14,7 +14,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayank sangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank sangwan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayank-sangwan-ab6795279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank sangwan" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayanksangwan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayanksangwan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mayanksangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mayanksangwan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayank_sangwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank_sangwan" height="30" width="40" /></a>
