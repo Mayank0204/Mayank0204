@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development and DSA**
 
-- 📫 How to reach me **mayanksangwan20022004@gmail.com**
+- 📫 How to reach me **mksangwan2026@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
