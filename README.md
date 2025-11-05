@@ -1,6 +1,8 @@
+![logo](https://github.com/Mayank0204/Mayank0204/blob/main/github-header-image.png)
+
 <div align="center">
 
-# 💫 Hi there, I'm Vansh Tyagi! 👋
+# 💫 Hi there, I'm Mayank Sangwan! 👋
 
 ### *"AI/ML explorer, Armed with algorithms, curiosity, and a sharing heart. Unraveling mysteries, one code snippet at a time"*
 
