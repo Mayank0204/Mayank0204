@@ -151,7 +151,7 @@
 
 ---
 
-<div align="center">
+<div>
 
 ### 🚀 **Key Achievements**
 
@@ -166,7 +166,7 @@
 
 ## 🏅 Achievements & Highlights
 
-<div align="center">
+<div>
 
 🎯 **5+ Projects** in Machine Learning & Data Science  
 💻 **Full-Stack Developer** - From ML/DL models to web deployment  
