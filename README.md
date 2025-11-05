@@ -88,33 +88,34 @@
 
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🏠 [Flower Image Classifier](https://github.com/Mayank0204/flower-image-classifier.git)
 **🌸 Flower Image Classifier using Deep Learning**
-- 🧠 Built a **Convolutional Neural Network (CNN)** using **TensorFlow** and **Keras**
-- 📊 Performed **data augmentation** and **image preprocessing** for better generalization
-- 🎯 Achieved **high accuracy** in multi-class flower classification
+- 🧠 Built a **Convolutional Neural Network (CNN)** using **TensorFlow** and **Keras**  
+- 📊 Performed **data augmentation** and **image preprocessing** for better generalization  
+- 🎯 Achieved **high accuracy** in multi-class flower classification  
 - 📈 Evaluated model performance using **accuracy** and **loss curves**
 
 *Technologies: Python, TensorFlow, Keras, NumPy, Pandas*
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 💉 [Credit Card Fraud Detection System](https://github.com/Mayank0204/fraudvision-credit-card.git)
 **FraudVision: Fraud Detection System**
-- 🤖 **Ensemble Models:** Random Forest, XGBoost, Logistic Regression and Voting Classifier
-- ⚙️ **Calibrated Probability Thresholds** for improved fraud recall and precision
-- 📊 **Fraud Probability Visualization** with ROC and threshold tuning charts
-- 🌐 **Flask-Based Web App** with interactive prediction dashboard
+- 🤖 **Ensemble Models:** Random Forest, XGBoost, Logistic Regression and Voting Classifier  
+- ⚙️ **Calibrated Probability Thresholds** for improved fraud recall and precision  
+- 📊 **Fraud Probability Visualization** with ROC and threshold tuning charts  
+- 🌐 **Flask-Based Web App** with interactive prediction dashboard  
 
 *Technologies: Python, Flask, scikit-learn, XGBoost, Pandas, NumPy*
 
 </td>
 </tr>
+</table>
 
 ---
 
@@ -122,7 +123,7 @@
 
 <div align="center">
 
-### 🏆 **[Mayank_Sangwan]https://leetcode.com/u/Mayank_Sangwan/) - LeetCode Profile**
+### 🏆 **[Mayank_Sangwan](https://leetcode.com/u/Mayank_Sangwan/)** - LeetCode Profile  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mayank_Sangwan?theme=dark&font=Roboto&ext=heatmap)
 
@@ -130,27 +131,34 @@
 
 ---
 
-
 <div align="center">
 
 ### 💻 **Problem Solving Expertise**
 
+</div>
+
+<div align="center">
+
 | **Category** | **Focus Areas** | **Strength** |
-|:---:|:---:|:---:|
+|:-------------:|:----------------|:-------------:|
 | 🌳 **Trees** | Binary Trees, BST, Traversals | ⭐⭐ |
 | 📊 **Graphs** | DFS, BFS, Islands, MST | ⭐⭐ |
 | 🔄 **Dynamic Programming** | Optimization Problems | ⭐⭐ |
 | 📚 **Data Structures** | Arrays, LinkedList, Stacks | ⭐⭐⭐ |
 | 🎯 **Algorithms** | Sorting, Searching, Greedy | ⭐⭐⭐ |
 
+</div>
+
+---
 
 <div align="center">
 
 ### 🚀 **Key Achievements**
-- 🧩 **Multi-Domain Problem Solver** - Trees, Graphs, DP
-- 🎯 **Algorithm Implementation** - DFS, BFS
-- 🏆 **Code Optimization** - Time & Space Complexity Focus
-- 💡 **Pattern Recognition** - Template-based Problem Solving
+
+- 🧩 **Multi-Domain Problem Solver** - Trees, Graphs, DP  
+- 🎯 **Algorithm Implementation** - DFS, BFS  
+- 🏆 **Code Optimization** - Time & Space Complexity Focus  
+- 💡 **Pattern Recognition** - Template-based Problem Solving  
 
 </div>
 
@@ -160,7 +168,7 @@
 
 <div align="center">
 
-🎯 **5+ Projects** in Machine Learning & Data Science 
+🎯 **5+ Projects** in Machine Learning & Data Science  
 💻 **Full-Stack Developer** - From ML/DL models to web deployment  
 🚀 **Production Experience** - Render, Vercel and Streamlit deployments  
 📚 **Algorithm Expert** - Good foundation in data structures  
@@ -173,7 +181,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sangwan-ab6795279/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sangwan-ab6795279/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mksang2026@gmail.com)
 
 </div>
@@ -184,8 +192,7 @@
 
 ### 💭 *"Every algorithm tells a story, every model solves a problem, and every line of code makes a difference."*
 
-**⭐ If you find my work interesting, please consider giving my repositories a star!**
-
+**⭐ If you find my work interesting, please consider giving my repositories a star!**  
 **🤝 Always open to collaborating projects and innovative solutions!**
 
 ---
@@ -193,4 +200,3 @@
 *Last updated: November 2025*
 
 </div>
-
